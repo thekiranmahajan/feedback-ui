@@ -2,13 +2,19 @@
 
 ## 🔯 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬🔯
 
-📍Fully responsive
-📍Uses DOM manipulation
-📍Uses Eventlisteners
-📍Modern CSS design
-📍Dynamic state update with Js
-📍Added complex selection of HTML elements
-📍Handles target clicks other than the main element
+-📍Fully responsive
+
+-📍Uses DOM manipulation
+
+-📍Uses Eventlisteners
+
+-📍Modern CSS design
+
+-📍Dynamic state update with Js
+
+-📍Added complex selection of HTML elements
+
+-📍Handles target clicks other than the main element
 
 ## 💻𝐆𝐢𝐭𝐇𝐮𝐛 𝐑𝐞𝐩𝐨:
 
