@@ -55,7 +55,7 @@ const submission = () => {
           padding: 10px 15px;
         "
       >
-        <p style="margin-bottom: 50px">Thank you for your valuable feedback</p>
+        <p style="margin-bottom: 20px; text-align: center">Thank you for your valuable feedback</p>
         <strong
           style="
            
